@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nhật Huy</h1>
 <h3 align="center">A passionate Frontend developer from Vietnam</h3>
 
+<h3>About Me</h3>
+<p>I'm currently working on my Skills</p>
+<p>I'm currently learning more about web developer</p>
+<p>How to reach me: Email - nhath240401</p>
+<p></p>
+<p></p>
+<p></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nhath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nhath" height="30" width="40" /></a>
